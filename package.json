@@ -19,7 +19,7 @@
   "dependencies": {
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.0",
-    "@vercel/ncc": "^0.32.0"
+    "@vercel/ncc": "^0.33.1"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
@@ -27,14 +27,14 @@
     "@types/js-yaml": "^4.0.5",
     "@types/json-schema": "^7.0.9",
     "@types/node": "^16.11.10",
-    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.4.0",
     "eslint": "^8.3.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-jest": "^25.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.4",
-    "jest": "^27.3.1",
+    "jest": "^27.4.5",
     "prettier": "^2.5.0",
     "ts-jest": "^27.0.7",
     "ts-node": "^10.4.0",
